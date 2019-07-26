@@ -12,7 +12,7 @@
 8. `pip install --upgrade pip`
 9. `pip install -r requirements.txt`
 
-## 2. Commands to run every time before starting work
+## 2. Commands to run every time before starting work (first two in every terminal)
 
 1. `source /home/$USER/python_env/shush_env/bin/activate`
 2. `cd /home/$USER/projects/shush`
